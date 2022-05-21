@@ -7,7 +7,7 @@ By means of TensorFlow we will implement 4 different Models for detecting differ
 3. NASNet
 4. Inception-ResNet-v2
 
-##### Ethnic Groups:
+#### Ethnic Groups:
 
 1. Caucasoid (white)
 2. Negroid (black)
@@ -15,7 +15,7 @@ By means of TensorFlow we will implement 4 different Models for detecting differ
 4. Australoid
 5. Others
 
-##### Dataset download link:
+#### Dataset download link:
 
 https://drive.google.com/u/0/uc?id=1GTK3NwzQscKO3zxRk0R8SHoT9EXV_TvS&export=download"
 
@@ -29,7 +29,6 @@ https://drive.google.com/u/0/uc?id=1GTK3NwzQscKO3zxRk0R8SHoT9EXV_TvS&export=down
 5. Adjusting the Model parameters
 6. Making prediction with our trained Model
 
---
 **Few things we could try to continue to improve our model:**
 
 1. Increase the number of model layers (e.g. add more convolutional layers).
